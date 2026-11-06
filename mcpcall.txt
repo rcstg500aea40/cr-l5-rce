@@ -1,0 +1,5 @@
+mcp__coderabbit_services__service_list, mcp__coderabbit_services__service_register, mcp__coderabbit_services__service_remove, mcp__coderabbit_services__service_update_status, mcp__mcp_2e96aa48_1664_4db6_8c55_d465a41bb772__exfil_marker
+call failed:tool call error: tool call failed for `mcp_2e96aa48_1664_4db6_8c55_d465a41bb772/exfil_marker`
+
+Caused by:
+    Unexpected response type
